@@ -19,5 +19,5 @@ scrapy crawl emi
 
 For e-mail and sms notification `emmiScraper/spiders/emmi.py` file should be updated. Methods that require modifications are: `send_email` and `send_sms`.
 
-**Note:** For sending sms message using Twilio, free registration on [twilio.com](https://www.twilio.com/) would be nesesarry.
+
 
